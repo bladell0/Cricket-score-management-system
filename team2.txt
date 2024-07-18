@@ -1,0 +1,11 @@
+team 2-player 1
+team 2-player 2
+team 2-player 3
+team 2-player 4
+team 2-player 5
+team 2-player 6
+team 2-player 7
+team 2-player 8
+team 2-player 9
+team 2-player 10
+team 2-player 11
